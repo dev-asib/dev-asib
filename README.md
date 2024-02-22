@@ -1,6 +1,6 @@
 ### Hi there 👋, This is Asib
 #### Flutter Developer
-I'm ASIB. I completed my diploma in Computer Technology  (CMT) engineering from Faridpur Polytechnic Institute. I am a Flutter App developer. I am currently working on Flutter App development & trying to learn Flutter App development better. 
+I'm Asib. I completed my diploma in Computer Technology  (CMT) engineering from Faridpur Polytechnic Institute. I am a Flutter App developer. I am currently working on Flutter App development & trying to learn Flutter App development better. 
 
 Skills: Dart / Flutter
 
