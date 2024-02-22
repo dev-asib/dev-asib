@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hi there 👋, This is Asib
+#### Flutter Developer
+I'm ASIB. I completed my diploma in Computer Technology  (CMT) engineering from Faridpur Polytechnic Institute. I am a Flutter App developer. I am currently working on Flutter App development & trying to learn Flutter App development better. 
+
+Skills: Dart / Flutter
+
+- 🔭 I’m currently working on Flutter 
+- 🌱 I’m currently learning Professional Flutter App Development 
+- 👯 I’m looking to collaborate on Github Project 
 
 
-**dev-asib/dev-asib** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/dev-asib)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/asib.dev)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/dev.asib/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/22420852)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/Dev-Asib)  
 
-Here are some ideas to get you started:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-asib)](https://github.com/anuraghazra/github-readme-stats)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=dev-asib&show_icons=true)  
 
