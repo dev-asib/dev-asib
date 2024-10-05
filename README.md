@@ -19,7 +19,8 @@ Skills: Dart / Flutter
 [![LeetCode Profile](https://img.shields.io/badge/LeetCode-Profile-orange)](https://leetcode.com/dev-asib/)
 
 ## My Beecrowd Profile
-[Visit my Beecrowd profile](https://judge.beecrowd.com/en/profile/906929)
+[![Beecrowd Profile](https://img.shields.io/badge/Beecrowd-Profile-brightgreen)](https://judge.beecrowd.com/en/profile/906929)
+
 
 
 
