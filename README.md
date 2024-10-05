@@ -15,11 +15,13 @@ Skills: Dart / Flutter
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=dev-asib&show_icons=true)  
 
-## My LeetCode Profile
-[![LeetCode Profile](https://img.shields.io/badge/LeetCode-Profile-orange)](https://leetcode.com/dev-asib/)
+## My Problem Solving Profiles 🧩
 
-## My Beecrowd Profile
-[![Beecrowd Profile](https://img.shields.io/badge/Beecrowd-Profile-brightgreen)](https://judge.beecrowd.com/en/profile/906929)
+I love solving problems on various competitive programming platforms. You can check out my profiles below:
+
+- **Beecrowd**: [![Beecrowd Profile](https://img.shields.io/badge/Beecrowd-Profile-brightgreen)](https://judge.beecrowd.com/en/profile/906929)
+- **LeetCode**: [![LeetCode Profile](https://img.shields.io/badge/LeetCode-Profile-orange)](https://leetcode.com/dev-asib/)
+
 
 
 
