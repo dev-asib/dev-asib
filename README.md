@@ -15,6 +15,5 @@ Skills: Dart / Flutter
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=dev-asib&show_icons=true)  
 
-![]https://leetcard.jacoblin.cool/dev-asib?animation=false
 
 
