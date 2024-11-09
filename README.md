@@ -13,8 +13,6 @@ Skills: Dart / Flutter
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-asib)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=dev-asib&show_icons=true)  
-
 ## My Problem Solving Profiles 🧩
 
 I love solving problems on various competitive programming platforms. You can check out my profiles below:
