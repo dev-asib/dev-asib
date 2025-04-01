@@ -1,5 +1,5 @@
 # 🚀 Hi there! I'm Asib 👋  
-## 💻 Flutter Developer | Backend Enthusiast | Problem Solver  
+## 💻 Flutter Developer | Problem Solver | Software Development Enthusiast  
 
 I am a **passionate Flutter Developer** who loves building **scalable, high-performance, and user-friendly applications**.  
 With expertise in **cross-platform mobile development, clean architecture, and performance optimization**, I strive to create efficient and intuitive digital experiences.  
@@ -9,7 +9,7 @@ Currently, I am expanding my skills by learning **Backend Development with Go** 
 ---
 
 ## 📌 About Me  
-- 🔭 **Currently Working At:** Flutter Developer 
+- 🔭 **Currently Working At:** Flutter Developer  
 - 🎯 **Focused On:** Scalable Flutter Apps, Clean Architecture, Performance Optimization  
 - 🌱 **Currently Learning:**  
   - **Backend Development with Go**  
