@@ -20,7 +20,7 @@ I strive for **efficiency, best practices, and intuitive user experiences** whil
 ### 📱 **Mobile Development**  
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)  
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)  
-![FVM](https://img.shields.io/badge/FVM-0066FF?style=for-the-badge&logo=flutter&logoColor=white)  
+![FVM](https://img.shields.io/badge/FVM-0066FF?style=for-the-badge&logo=flutter&logoColor=white)
 
 ### ⚡ **Backend & Cloud**  
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)  
@@ -32,16 +32,19 @@ I strive for **efficiency, best practices, and intuitive user experiences** whil
 ![REST API](https://img.shields.io/badge/REST-API-blue?style=for-the-badge)  
 
 ### 🧩 **State Management**  
-- **BLoC**  
-- **GetX**  
-- **Provider**  
+![BLoC](https://img.shields.io/badge/BLoC-007ACC?style=for-the-badge&logo=flutter&logoColor=white)  
+![GetX](https://img.shields.io/badge/GetX-FF4457?style=for-the-badge&logo=flutter&logoColor=white)  
+![Provider](https://img.shields.io/badge/Provider-58A6B7?style=for-the-badge&logo=flutter&logoColor=white)
 
 ### 🏗️ **App Deployment**  
-- **App Store & Google Play Deployment**  
-- **CI/CD**: GitHub Actions, Fastlane  
+![App Store](https://img.shields.io/badge/App%20Store-000000?style=for-the-badge&logo=app-store&logoColor=white)  
+![Google Play](https://img.shields.io/badge/Google%20Play-34b7f1?style=for-the-badge&logo=google-play&logoColor=white)  
+![CI/CD](https://img.shields.io/badge/Fastlane-FF6F00?style=for-the-badge&logo=fastlane&logoColor=white)  
 
 ### 🧩 **Architecture & State Management**  
-- **MVVM, MVC, Layer First, Feature First, Clean Architecture**  
+![MVVM](https://img.shields.io/badge/MVVM-6C5B8B?style=for-the-badge)  
+![MVC](https://img.shields.io/badge/MVC-2D87F0?style=for-the-badge)  
+![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-003B57?style=for-the-badge)  
 
 ### 🔧 **Tools & Platforms**  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
