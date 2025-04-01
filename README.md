@@ -11,7 +11,7 @@ Skills: Dart / Flutter
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/dev-asib)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/asib.dev/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/dev-asib/)  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-asib)](https://github.com/anuraghazra/github-readme-stats)
+<table>  <tr>    <td>      <a href="https://github.com/anuraghazra/github-readme-stats">        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-asib" alt="Top Languages"/>      </a>    </td>    <td align="center">      <strong>🔥 GitHub Streak</strong><br/> <br/>      <a href="https://git.io/streak-stats">        <img src="https://streak-stats.demolab.com/?user=dev-asib&theme=tokyonight" alt="GitHub Streak"/>      </a>    </td>  </tr></table>
 
 ## My Problem Solving Profiles 🧩
 
