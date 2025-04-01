@@ -90,7 +90,7 @@ I enjoy solving **algorithmic challenges** and participating in **competitive pr
 
 ## 📫 **Let's Connect**  
 [![GitHub](https://img.shields.io/badge/GitHub-Dev%20Asib-181717?style=for-the-badge&logo=github)](https://github.com/dev-asib)  
-[![Facebook](https://img.shields.io/badge/Facebook-Asib%20Dev-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/asib.dev/)  
+[![Facebook](https://img.shields.io/badge/Facebook-Dev%20Asib-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/asib.dev/)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Dev%20Asib-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dev-asib/)  
 [![Gmail](https://img.shields.io/badge/Gmail-tech.asib.com%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tech.asib.com@gmail.com)
 
