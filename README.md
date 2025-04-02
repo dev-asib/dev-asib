@@ -59,8 +59,6 @@ Currently, I am expanding my skills by learning **Backend Development with Go** 
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)  
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)  
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-1F3C88?style=for-the-badge&logo=intellij-idea&logoColor=white)  
-![SQFLite](https://img.shields.io/badge/SQFlite-5E1A5A?style=for-the-badge&logo=sqflite&logoColor=white)  
-![Hive](https://img.shields.io/badge/Hive-F6E02F?style=for-the-badge&logo=hive&logoColor=black)  
 
 ---
 
